@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-WPPConnect-team is an open source community with the aim of creating systems and functions involving WhatsApp Web, with our systems it is possible to create any interaction, such as customer service, media sending, intelligence recognition based on artificial phrases and many more and other things, please use your imagination.
+Welcome to our open source community, WPPConnect-team, we aim to create systems and functions involving WhatsApp Web, we already have several applications with the possibility of creating any interaction, whether with automation, customer service, media sending, NLP and much more...
 
 [![Discord](https://img.shields.io/discord/844351092758413353?color=blueviolet&label=Discord&logo=discord&style=flat)](https://discord.gg/JU5JGGKGNG)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-32AFED?logo=telegram)](https://t.me/wppconnect)
