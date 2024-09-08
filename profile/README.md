@@ -19,23 +19,23 @@ Welcome to our open source community, WPPConnect-team! Our goal is to create rob
 
 ## 🚀 Maintained Projects
 
-🔹 WPPConnect Server
+🔹 [WPPConnect Server](https://github.com/wppconnect-team/wppconnect-server)
 
 WPPConnect Server is our backend interface that connects external applications to WhatsApp Web. It’s a stable and scalable solution, perfect for high-performance automation.
 
-🔹 WPPConnect Library (Lib)
+🔹 [WPPConnect Library (Lib)](https://github.com/wppconnect-team/wppconnect)
 
 The main WPPConnect library, used to interact with WhatsApp Web. It provides a complete and flexible API for developers looking to create custom solutions, from sending messages to managing groups.
 
-🔹 WAJS
+🔹 [WAJS](https://github.com/wppconnect-team/wajs)
 
 WAJS is our JavaScript library that directly handles the WhatsApp Web protocol, allowing for more advanced and complete communication.
 
-🔹 WPP4Delphi
+🔹 [WPP4Delphi](https://github.com/wppconnect-team/wpp4delphi)
 
 WPP4Delphi is an implementation of WPPConnect for the Delphi programming language, enabling developers on that platform to integrate WhatsApp Web into their systems. It’s the ideal solution for those using Delphi and needing a direct integration with WhatsApp.
 
-🔹 WA-Version
+🔹 [WA-Version](https://github.com/wppconnect-team/wa-version)
 
 WA-Version is a project designed to monitor and update WhatsApp Web versions, ensuring that WPPConnect remains compatible with the latest updates and changes in WhatsApp. This ensures that our solutions stay stable and functional.
 
