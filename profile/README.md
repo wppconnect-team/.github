@@ -36,8 +36,11 @@ WAJS is our JavaScript library that directly handles the WhatsApp Web protocol, 
 WPP4Delphi is an implementation of WPPConnect for the Delphi programming language, enabling developers on that platform to integrate WhatsApp Web into their systems. It’s the ideal solution for those using Delphi and needing a direct integration with WhatsApp.
 
 🔹 [WA-Version](https://github.com/wppconnect-team/wa-version)
-
 WA-Version is a project designed to monitor and update WhatsApp Web versions, ensuring that WPPConnect remains compatible with the latest updates and changes in WhatsApp. This ensures that our solutions stay stable and functional.
+
+🔹 [WA-Proto](https://github.com/wppconnect-team/wa-proto)
+
+**WA-Proto** is a protocol library designed to handle communication between the WhatsApp Web client and the server. It provides a set of protocols and structures necessary for creating reliable and efficient integrations with WhatsApp Web, enabling enhanced functionality and better control over the messaging process.
 
 ## 🌍 Community and Applications
 Our open source community is constantly evolving, collaborating to expand the functionalities and applications of WPPConnect. We are continuously developing new features to meet the needs of automation, customer service, and communication via WhatsApp.
