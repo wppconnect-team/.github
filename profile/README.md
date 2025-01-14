@@ -27,7 +27,7 @@ WPPConnect Server is our backend interface that connects external applications t
 
 The main WPPConnect library, used to interact with WhatsApp Web. It provides a complete and flexible API for developers looking to create custom solutions, from sending messages to managing groups.
 
-🔹 [WAJS](https://github.com/wppconnect-team/wajs)
+🔹 [WAJS](https://github.com/wppconnect-team/wa-js)
 
 WAJS is our JavaScript library that directly handles the WhatsApp Web protocol, allowing for more advanced and complete communication.
 
